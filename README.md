@@ -1,7 +1,8 @@
-## Obsidian Format Code plugin
+## Obsidian Code Formatter Plugin
 
 This is a plugin for [Obsidian](https://obsidian.md) that introduces
-custom commands to format code.
+custom commands to format code. Since the orignal plugin Obsidian-Format-Code repository is not being updated/maintained anymore,
+this repository is created to keep maintaining and building on top of this plugin.
 
 Currently supports the following languages:
 - JSON
